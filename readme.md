@@ -13,5 +13,5 @@ Para instalar el entorno virtual tenemos dos opciones:
 Contenido del curso:
 
 - [Clase 2 - Análisis Exploratorio de Datos](/Clase02/EDA.ipynb)
-- [Clase 3 - K-NN](/Clase03/)
-- [Clase 4 - Árboles de decisión](/Clase04/)
+- [Clase 3 - K-NN](/Clase03/kNearestNeighbors.ipynb)
+- [Clase 4 - Árboles de decisión](/Clase04/DecisionTrees.ipynb)
