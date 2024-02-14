@@ -14,3 +14,4 @@ Contenido del curso:
 
 - [Clase 2 - Análisis Exploratorio de Datos](/Clase02/)
 - [Clase 3 - K-NN](/Clase03/)
+- [Clase 4 - Árboles de decisión](/Clase04/)
