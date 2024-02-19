@@ -15,3 +15,4 @@ Contenido del curso:
 - [Clase 2 - Análisis Exploratorio de Datos](/Clase02/EDA.ipynb)
 - [Clase 3 - K-NN](/Clase03/kNearestNeighbors.ipynb)
 - [Clase 4 - Árboles de decisión](/Clase04/DecisionTrees.ipynb)
+- [Clase 6 - Regresión Lineal](/Clase06/RegresionLineal.ipynb)
