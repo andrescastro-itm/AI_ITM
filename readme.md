@@ -17,3 +17,4 @@ Contenido del curso:
 - [Clase 4 - Árboles de decisión](/Clase04/DecisionTrees.ipynb)
 - [Clase 6 - Regresión Lineal](/Clase06/RegresionLineal.ipynb)
 - [Clase 8 - Grafo Computacional](/Clase08/pytorch-autogradEjemploClase.ipynb)
+- [Clase 10 - Regresión Logística](/Clase10/RegresionLogistica.ipynb)
