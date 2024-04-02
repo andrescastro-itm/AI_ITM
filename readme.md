@@ -19,3 +19,4 @@ Contenido del curso:
 - [Clase 8 - Grafo Computacional](/Clase08/pytorch-autogradEjemploClase.ipynb)
 - [Clase 10 - Regresión Logística](/Clase10/RegresionLogistica.ipynb)
 - [Clase 13 - Máquinas de Vectores de Soporte](/Clase13/SVM_kernel.ipynb)
+- Clase 15 - Redes Neuronales: [Regresión Softmax](/Clase15/1_softmax_regression_mnist.ipynb) y [Perceptrón Multicapa](/Clase15/2_mlp-pytorch_softmax-crossentr.ipynb)
