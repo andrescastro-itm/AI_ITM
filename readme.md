@@ -20,3 +20,5 @@ Contenido del curso:
 - [Clase 10 - Regresión Logística](/Clase10/RegresionLogistica.ipynb)
 - [Clase 13 - Máquinas de Vectores de Soporte](/Clase13/SVM_kernel.ipynb)
 - Clase 15 - Redes Neuronales: [Regresión Softmax](/Clase15/1_softmax_regression_mnist.ipynb) y [Perceptrón Multicapa](/Clase15/2_mlp-pytorch_softmax-crossentr.ipynb)
+- [Clase 16 - Funciones de activación](/Clase16/xor-problem.ipynb)
+- [Clase 17 - Análisis de Componentes Principales](/Clase17/PCA.ipynb) 
