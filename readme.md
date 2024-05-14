@@ -23,3 +23,13 @@ Contenido del curso:
 - [Clase 16 - Funciones de activación](/Clase16/xor-problem.ipynb)
 - [Clase 17 - Análisis de Componentes Principales](/Clase17/PCA.ipynb)
 - [Clase 18 - Interpretabilidad I](/Clase18/Interpretabilidad_1.ipynb)
+- Clase 25:
+    - [Aumento de Datos](/Clase25/data-augmentation.ipynb)
+    - [Batch Normalization](/Clase25/batchnorm.ipynb)
+    - [Dropout](/Clase25/dropout.ipynb)
+- Clase 26:
+    - [Ejemplo Convoluciones](/Clase26/1-MLP_CNN.ipynb)
+    - [Convolución y Correlación Cruzada](/Clase26/2-cross-correlation.ipynb)
+    - [Red LeNet](/Clase26/3-lenet5-mnist.ipynb)
+    - [Red AlexNet](/Clase26/4-alexnet-cifar10.ipynb)
+    - [Ejemplo CIFAR10](/Clase26/5-cnn-cifar10.ipynb)
